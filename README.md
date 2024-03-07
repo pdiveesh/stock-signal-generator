@@ -54,5 +54,3 @@ Report any issues on the [Issue Tracker](https://github.com/pdiveesh/stock-signa
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ```
-
-Feel free to adjust the text or emojis based on your preferences. This style adds a more modern and friendly touch to your project's README.
