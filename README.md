@@ -48,7 +48,8 @@ Thank you for considering contributing to this project! Please follow the guidel
 
 ## 🚨 Issues
 
-Report any issues on the [Issue Tracker](https://github.com/pdiveesh/trading-analysis/issues).
+Report any issues on the [Issue Tracker](https://github.com/pdiveesh/stock-signal-generator
+/issues).
 
 ## 📄 License
 
