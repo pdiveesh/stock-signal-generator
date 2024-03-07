@@ -16,4 +16,4 @@ Follow the existing code style to maintain consistency.
 
 ## Issues
 
-Report any issues on the [Issue Tracker](https://github.com/pdiveesh/trading-analysis/issues).
+Report any issues on the [Issue Tracker](https://github.com/pdiveesh/stock-signal-generator/issues).
