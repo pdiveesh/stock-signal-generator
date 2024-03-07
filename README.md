@@ -9,7 +9,7 @@ Supercharge your trading decisions with this Python project that leverages machi
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/ypdiveesh/trading-analysis.git
+   git clone https://github.com/ypdiveesh/stock-signal-generator.git
    ```
 
 2. **Install dependencies:**
